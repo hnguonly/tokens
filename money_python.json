@@ -1,5 +1,6 @@
 {
   "name": "MoneyPython Token",
   "symbol": "MPT",
+  "description": "Money Python token.",
   "image": "https://raw.githubusercontent.com/hnguonly/tokens/main/money_python_logo.png"
 }
